@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./main.css">
+    <link rel="shortcut icon" href="./todo.png" type="image/png">
+    <title>TO-DO LIST</title>
+  </head>
+  <body>
+   <header>
+    <h1>Online To-Do List</h1>
+    <p>
+      This Project has been built using HTML,CSS and Javascript with the help of Local Storage API
+    </p>
+    <a target="_blank" href="https://krishnasworld.netlify.app">Visit My Portfolio</a>
+   </header>
+
+    <main>
+      <section id="add-task">
+        <form>
+          <input id="input" type="text" placeholder="Add Task..." />
+          <button  type="submit">Add Task</button>
+        </form>
+      </section>
+
+      <section id="tasks">
+        <h2>Tasks</h2>
+        <ul id="list-container">
+          <!-- <li id="item">
+            <span>Task 1</span>
+            <button id="delete">X</button>
+          </li> -->
+        </ul>
+      </section>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
