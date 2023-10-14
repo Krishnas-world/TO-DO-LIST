@@ -20,7 +20,7 @@ Tasks are stored in the browser's local storage for persistent data retention.
 Users can delete tasks by clicking the "X" button next to each task.
 The task list is dynamically updated as tasks are added or removed.
 
-#Usage:
+# Usage:
 
 Clone the repository or download the source code.
 Open index.html in a web browser.
