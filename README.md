@@ -26,6 +26,6 @@ Clone the repository or download the source code.
 Open index.html in a web browser.
 Add, manage, and delete tasks using the provided user interface.
 
-#Contributions:
+# Contributions:
 
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests to enhance this to-do list application further.
